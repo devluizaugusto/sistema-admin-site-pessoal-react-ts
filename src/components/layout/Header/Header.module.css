@@ -1,0 +1,13 @@
+.header{
+    text-align: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #4D68FF;
+    color: #fff;
+}
+
+.logo{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+

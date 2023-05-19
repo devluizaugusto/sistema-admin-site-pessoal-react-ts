@@ -1,0 +1,32 @@
+.button, .blueButton{
+    display: block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 0.25rem;
+    border: 1px solid;
+    transition: background-color 0.2s ease-in-out;
+    margin: 5px;
+    width: 100px;
+}
+
+.button{
+    color: #000;
+    background-color: #fff;
+}
+
+.blueButton{
+    background-color: #3D9DF5;
+    color: #000;
+}
+
+.grayButton{
+    background-color: #ddd;
+    color: #000;
+}
+
+.button:hover, .blueButton:hover{
+    background-color: chartreuse;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.formWrapper{
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35vw;
+    background-color: #3D9DF5;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 25px;
+}
